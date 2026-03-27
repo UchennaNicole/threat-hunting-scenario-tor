@@ -1,6 +1,7 @@
-# Official [Cyber Range](http://joshmadakor.tech/cyber-range) Project
+# Official [FEARLess (www.linkedin.com/in/uchenna-nwankwo-cisa-cism-crisc-security-plus-98b200230) Project
 
-<img width="400" src="https://github.com/user-attachments/assets/44bac428-01bb-4fe9-9d85-96cba7698bee" alt="Tor Logo with the onion and a crosshair on it"/>
+<img width="600" height="800" alt="image" src="https://github.com/user-attachments/assets/8d4e7fbe-fdca-4dae-b495-c0d8e8efaab3" />
+
 
 # Threat Hunt Report: Unauthorized TOR Usage
 - [Scenario Creation](https://github.com/UchennaNicole/threat-hunting-scenario-tor)
