@@ -47,7 +47,7 @@ DeviceFileEvents
 
 ### 2. Searched the `DeviceProcessEvents` Table
 
-Searched for any `ProcessCommandLine` that contained the string "tor-browser-windows-x86_64-portable-15.0.8.exe". Based on the logs returned, at `Mar 30, 2026 7:08:36 PM`, an employee on the "threat-hunt-lab" device ran the file `tor-browser-windows-x86_64-portable-15.0.8.exe"` from their Downloads folder, using a command that triggered a silent installation.
+Searched for any `ProcessCommandLine` that contained the string "tor-browser-windows-x86_64-portable-15.0.8.exe". Based on the logs returned, at `Mar 30, 2026 7:08:36 PM`, an employee on the "FEARLess-VM" device ran the file `tor-browser-windows-x86_64-portable-15.0.8.exe"` from their Downloads folder, using a command that triggered a silent installation.
 
 **Query used to locate event:**
 
