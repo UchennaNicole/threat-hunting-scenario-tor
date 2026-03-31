@@ -1,8 +1,7 @@
 # Official [FEARLess](http://www.linkedin.com/in/uchenna-nwankwo-cisa-cism-crisc-security-plus-98b200230) Project
 
-<img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/8d4e7fbe-fdca-4dae-b495-c0d8e8efaab3" />
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/eff05c84-88da-4325-8286-5ed2db86c8e6" />
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/b55d078c-be25-4a1a-b109-d90ae27d303e" />
 
 
 # Threat Hunt Report: Unauthorized TOR Usage
@@ -13,6 +12,8 @@
 - EDR Platform: Microsoft Defender for Endpoint
 - Kusto Query Language (KQL)
 - Tor Browser
+
+<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/8d4e7fbe-fdca-4dae-b495-c0d8e8efaab3" />
 
 ##  Scenario
 
