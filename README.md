@@ -2,6 +2,8 @@
 
 <img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/8d4e7fbe-fdca-4dae-b495-c0d8e8efaab3" />
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/b55d078c-be25-4a1a-b109-d90ae27d303e" />
+
 
 # Threat Hunt Report: Unauthorized TOR Usage
 - [Scenario Creation](https://github.com/UchennaNicole/threat-hunting-scenario-tor)
@@ -15,6 +17,8 @@
 ##  Scenario
 
 Management suspects that some employees may be using TOR browsers to bypass network security controls because recent network logs show unusual encrypted traffic patterns and connections to known TOR entry nodes. Additionally, there have been anonymous reports of employees discussing ways to access restricted sites during work hours. The goal is to detect any TOR usage and analyze related security incidents to mitigate potential risks. If any use of TOR is found, notify management.
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/1595df7a-1f3d-4d8d-af35-adc4909d1926" />
 
 ### High-Level TOR-Related IoC Discovery Plan
 
