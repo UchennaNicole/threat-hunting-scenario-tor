@@ -89,6 +89,7 @@ Searched for any indication the TOR browser was used to establish a connection u
 DeviceNetworkEvents
 | where DeviceName == "fearless-vm"
 | where InitiatingProcessAccountName != "system"
+| where InitiatingProcessFileName in ("tor.exe", "firefox.exe")  
 | where RemotePort in("9001", "9030", "9040", "9050", "9051", "9150", "80", "443") 
 | project Timestamp, InitiatingProcessAccountName, DeviceName, ActionType, RemoteIP, RemotePort, RemoteUrl, InitiatingProcessFileName, InitiatingProcessFolderPath
 | order by Timestamp desc
